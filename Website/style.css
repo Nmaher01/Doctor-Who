@@ -1,0 +1,44 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 2.5em;
+	font-size: 16px;
+	color: #666;
+}
+.insertimage {
+	float: left;
+	border: 10px solid #999;
+	padding: 25px;
+	background-color: #CCC;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+	margin-left: 0px;
+}
+.content-area {
+	padding-left: 30px;
+	color: #000000;
+	background-color: #0CF;
+}
+.secondaroy-nav {
+	background-color: #FFC;
+	padding-right: 100px;
+}
+.villains-button {
+	background-color: #FCF;
+	width: 25%;
+}
+.home-button {
+	background-color: #FC6;
+	width: 25%;
+}
+.companions-button {
+	background-color: #CCF;
+	width: 25%;
+}
+td {
+	padding: 0px;
+}
+.doctors-button {
+	background-color: #6C9;
+	width: 25%;
+}
