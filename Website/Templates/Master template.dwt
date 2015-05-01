@@ -20,7 +20,7 @@ body {
 </style>
 </head>
 
-<body>
+<body text="#000000">
 <table width="950">
   <tr>
     <td class="home-button"><a href="../index.html">Home</a></td>
@@ -43,7 +43,7 @@ body {
         <li><a href="../the-doctors/fourthdoctor.html">Fourth Doctor</a></li>
         <li><a href="../the-doctors/fifthdoctor.html">Fifth Doctor</a></li>
         <li><a href="../the-doctors/sixthdoctor.html">Sixth Doctor</a></li>
-        <li><a href="../the-doctors/seventhdoctor.html">Seventh Doctor</a></li>
+        <li><a href="../the-doctors/seventhdoctor.html">Seventh Doctor</a>x</li>
         <li><a href="../the-doctors/eighthdoctor.html">Eighth Doctor</a></li>
         <li><a href="../the-doctors/ninthdoctor.html">Ninth Doctors</a></li>
         <li><a href="../the-doctors/tenthdoctor.html">Tenth Doctor</a></li>
@@ -77,9 +77,7 @@ body {
       <li><a href="../the-villains/meddlingmonk.html">Meddling Monk</a></li>
       <li><a href="../the-villains/kandyman.html">Kandy Man</a></li>
       <li><a href="../the-villains/icewarriors.html">Ice Warriors</a></li>
-      <li><a href="../the-villains/cybermen.html">Cybermen</a></li>
-    </ul>
-    <!-- TemplateEndIf --></td>
+      <li><a href="../the-villains/cybermen.html">Cybermen</a></li></ul><!-- TemplateEndIf --></td>
     
 <td class="content-area"><!-- TemplateBeginEditable name="MasterContent" -->
   <p>Homepage</p>
